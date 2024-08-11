@@ -1,4 +1,8 @@
-The whole set of lecture notes can be downloaded here: [Lecture notes](notes/lecture_notes.pdf)
+The whole set of lecture notes can be downloaded here: [Lecture notes](notes/lecture_notes.pdf).
+
+A series of lectures covering the prerequisites for the class can be found [here](https://www.youtube.com/watch?v=Cz1sCRX5tek&list=PLvs1S8_6mIiW4ZXRHlHlLDPACSmdUPnZ9).
+
+&nbsp;
 
 | Lecture | Date       | Topic                                            | Slides | Exercises |
 |---------|------------|--------------------------------------------------|--------|-----------|
