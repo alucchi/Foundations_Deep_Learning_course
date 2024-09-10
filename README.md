@@ -4,19 +4,19 @@ A series of lectures covering the prerequisites for the class can be found [here
 
 &nbsp;
 
-| Lecture | Date       | Topic                                            | Slides | Exercises |
-|---------|------------|--------------------------------------------------|--------|-----------|
-| 1       | 23/09/2024 | Introduction + Linear & non-linear networks      |        |           |
-| 2       | 26/09/2024 | Approximation Theory                             |        |           |
-| 3       | 30/09/2024 | Complexity Theory                                |        |           |
-| 4       | 10/10/2024 | Optimization                                     |        |           |
-| 5       | 17/10/2024 | Optimization Landscape of Neural Networks        |        |           |
-| 6       | 24/10/2024 | Neural Tangent Kernel                            |        |           |
-| 7       | 31/10/2024 | Generalization bounds I                          |        |           |
-| 8       | 07/11/2024 | Generalization bounds II                         |        |           |
-| 9       | 14/11/2024 | To be determined                                 |        |           |
-| 10      | 21/11/2024 | To be determined                                 |        |           |
-| 11      | 28/11/2024 | Architecture (no lecture notes, only slides)     |        |           |
-| 12      | 05/12/2024 | Regularization                                   |        |           |
-| 13      | 12/12/2024 | Adversarial Examples                             |        |           |
-| 14      | 19/12/2024 | To be determined                                 |        |           |
+| Lecture | Date       | Weekday | Topic                                            | Slides | Exercises |
+|---------|------------|---------|--------------------------------------------------|--------|-----------|
+| 1       | 23/09/2024 | Monday  | Introduction + Linear & non-linear networks      |        |           |
+| 2       | 26/09/2024 | Thursday| Approximation Theory                             |        |           |
+| 3       | 30/09/2024 | Monday  | Complexity Theory                                |        |           |
+| 4       | 10/10/2024 | Thursday| Optimization                                     |        |           |
+| 5       | 17/10/2024 | Thursday| Optimization Landscape of Neural Networks        |        |           |
+| 6       | 24/10/2024 | Thursday| Neural Tangent Kernel                            |        |           |
+| 7       | 31/10/2024 | Thursday| Generalization bounds I                          |        |           |
+| 8       | 07/11/2024 | Thursday| Generalization bounds II                         |        |           |
+| 9       | 14/11/2024 | Thursday| To be determined                                 |        |           |
+| 10      | 21/11/2024 | Thursday| To be determined                                 |        |           |
+| 11      | 28/11/2024 | Thursday| Architecture (no lecture notes, only slides)     |        |           |
+| 12      | 05/12/2024 | Thursday| Regularization                                   |        |           |
+| 13      | 12/12/2024 | Thursday| Adversarial Examples                             |        |           |
+| 14      | 19/12/2024 | Thursday| To be determined                                 |        |           |
