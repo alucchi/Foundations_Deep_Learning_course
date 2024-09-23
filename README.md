@@ -17,6 +17,8 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 
 &nbsp;
 
+## Lecture schedule
+
 | Lecture | Date       | Weekday | Topic                                            | Slides |
 |---------|------------|---------|--------------------------------------------------|--------|
 | 1       | 23/09/2024 | Monday  | Introduction + Linear & non-linear networks      |        |
@@ -34,6 +36,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 13      | 12/12/2024 | Thursday| To be determined                                 |        |           
 | 14      | 19/12/2024 | Thursday| To be determined                                 |        |           
 
+## Exercise schedule
 
 | Exercise | Date       | Weekday | Topic                                            | File |
 |----------|------------|---------|--------------------------------------------------|------|
