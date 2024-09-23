@@ -17,7 +17,6 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 
 &nbsp;
 
-## Lecture schedule 
 | Lecture | Date       | Weekday | Topic                                            | Slides |
 |---------|------------|---------|--------------------------------------------------|--------|
 | 1       | 23/09/2024 | Monday  | Introduction + Linear & non-linear networks      |        |
@@ -35,7 +34,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 13      | 12/12/2024 | Thursday| To be determined                                 |        |           
 | 14      | 19/12/2024 | Thursday| To be determined                                 |        |           
 
-## Exercise schedule 
+
 | Exercise | Date       | Weekday | Topic                                            | File |
 |----------|------------|---------|--------------------------------------------------|------|
 | 0        | 19/09/2024 | Thursday| Prequisites (Recap)                              |[Ex.0](exercises_2024/Exercise00_2024_deep_learning.pdf)|
@@ -57,23 +56,24 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 ## Continuous assessment
 
 Note the following split:
-15% continuous assessment (short exercises given during exercise classes and Q&As given during lectures, Grading: Best 3/6)
-20% homework (Grading: Best 2/3)
-30% project (writeup and presentation (for bonus))
-35% written exam
+- 15% continuous assessment (short exercises given during exercise classes and Q&As given during lectures, Grading: Best 3/6)
+- 20% homework (Grading: Best 2/3)
+- 30% project (writeup and presentation (for bonus))
+- 35% written exam
 
 Preliminary dates for continuous assessments (CA): 
-21/10/2024 (Monday): CA on Approximation and complexity theory
-31/10/2024 (Thursday): CA on Optimization
-11/11/2024 (Monday): CA on Loss landscape in Neural networks
-21/11/2024 (Thursday): CA on Neural tangent kernel
-02/12/2024 (Monday): CA on Generalization bounds I + II
-12/12/2024 (Thursday): CA on Reguarlization and Architectures
+- 21/10/2024 (Monday): CA on Approximation and complexity theory
+- 31/10/2024 (Thursday): CA on Optimization
+- 11/11/2024 (Monday): CA on Loss landscape in Neural networks
+- 21/11/2024 (Thursday): CA on Neural tangent kernel
+- 02/12/2024 (Monday): CA on Generalization bounds I + II
+- 12/12/2024 (Thursday): CA on Reguarlization and Architectures
 
 **A 50% score on HW sets is required to participate in the final exam. A score of 3 out of 6 is required at the exam to pass the class.**
 
 ## Exam
 Date for written exam: TBD.
+
 Information about the exam: you can bring two two-sided A4 sheets or four one-sided A4 sheets (hand-written or latex).
 
 ## Homework
