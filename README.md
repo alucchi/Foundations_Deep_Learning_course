@@ -2,21 +2,98 @@ The whole set of lecture notes can be downloaded here: [Lecture notes](notes/lec
 
 A series of lectures covering the prerequisites for the class can be found [here](https://www.youtube.com/watch?v=Cz1sCRX5tek&list=PLvs1S8_6mIiW4ZXRHlHlLDPACSmdUPnZ9).
 
+## Weekly schedule
+Thursday, 16.15-18.00 
+Spiegelgasse 5, Seminarraum 05.001
+
+Monday, 10.15-12.00 
+Bernoullistrasse 30/32, Hörsaal 103
+
+
+## Prerequisites
+There is no exercise or lecture on Monday 16/09/2024. Please use this time to read the first chapter of the notes to ensure you have the necessary background for the upcoming lecture.
+
+
+
 &nbsp;
 
-| Lecture | Date       | Weekday | Topic                                            | Slides | Exercises |
-|---------|------------|---------|--------------------------------------------------|--------|-----------|
-| 1       | 23/09/2024 | Monday  | Introduction + Linear & non-linear networks      |        |           |
-| 2       | 26/09/2024 | Thursday| Approximation Theory                             |        |           |
-| 3       | 30/09/2024 | Monday  | Complexity Theory                                |        |           |
-| 4       | 10/10/2024 | Thursday| Optimization                                     |        |           |
-| 5       | 17/10/2024 | Thursday| Optimization Landscape of Neural Networks        |        |           |
-| 6       | 24/10/2024 | Thursday| To be determined                                 |        |           |
-| 7       | 31/10/2024 | Thursday| Neural Tangent Kernel                            |        |           |
-| 8       | 07/11/2024 | Thursday| Generalization bounds I                          |        |           |
-| 9       | 14/11/2024 | Thursday| Generalization bounds II                         |        |           |
-| 10      | 21/11/2024 | Thursday| Architecture (no lecture notes, only slides)     |        |           |
-| 11      | 28/11/2024 | Thursday| Regularization                                   |        |           |
-| 12      | 05/12/2024 | Thursday| Adversarial Examples                             |        |           |
-| 13      | 12/12/2024 | Thursday| To be determined                                 |        |           |
-| 14      | 19/12/2024 | Thursday| To be determined                                 |        |           |
+| Lecture | Date       | Weekday | Topic                                            | Slides |
+|---------|------------|---------|--------------------------------------------------|--------|
+| 1       | 23/09/2024 | Monday  | Introduction + Linear & non-linear networks      |        |
+| 2       | 26/09/2024 | Thursday| Approximation Theory                             |        |           
+| 3       | 30/09/2024 | Monday  | Complexity Theory                                |        |           
+| 4       | 10/10/2024 | Thursday| Optimization                                     |        |           
+| 5       | 17/10/2024 | Thursday| Optimization Landscape of Neural Networks        |        |           
+| 6       | 24/10/2024 | Thursday| To be determined                                 |        |          
+| 7       | 31/10/2024 | Thursday| Neural Tangent Kernel                            |        |           
+| 8       | 07/11/2024 | Thursday| Generalization bounds I                          |        |           
+| 9       | 14/11/2024 | Thursday| Generalization bounds II                         |        |           
+| 10      | 21/11/2024 | Thursday| Architecture (no lecture notes, only slides)     |        |           
+| 11      | 28/11/2024 | Thursday| Regularization                                   |        |           
+| 12      | 05/12/2024 | Thursday| Adversarial Examples                             |        |           
+| 13      | 12/12/2024 | Thursday| To be determined                                 |        |           
+| 14      | 19/12/2024 | Thursday| To be determined                                 |        |           
+
+
+| Exercise | Date       | Weekday | Topic                                            | File |
+|----------|------------|---------|--------------------------------------------------|------|
+| 0        | 19/09/2024 | Thursday| Prequisites (Recap)                              |[Ex.0](exercises2024/Exercise00_2024_deep_learning.pdf)|
+| 1        | 03/10/2024 | Thursday| Basics + Linear & non-linear networks            |      |           
+| 2        | 07/10/2024 | Monday  | Approximation Theory                             |      |           
+| 3        | 14/10/2024 | Monday  | Complexity Theory                                |      |           
+| 4        | 21/10/2024 | Monday  | Optimization                                     |      |           
+| 5        | 28/10/2024 | Monday  | Optimization Landscape of Neural Networks        |      |          
+| 6        | 04/11/2024 | Monday  | Neural Tangent Kernel                            |      |           
+| 7        | 11/11/2024 | Monday  | To be determined                                 |      |           
+| 8        | 18/11/2024 | Monday  | Generalization bounds I                          |      |           
+| 9        | 25/11/2024 | Monday  | Generalization bounds II                         |      |           
+| 10       | 02/12/2024 | Monday  | Architecture                                     |      |           
+| 11       | 09/12/2024 | Monday  | Regularization                                   |      |           
+| 12       | 16/12/2024 | Monday  | Adversarial Examples                             |      |           
+| 13       | 23/12/2024 | Monday  | To be determined                                 |      |       
+
+
+## Continuous assessment
+
+Note the following split:
+15% continuous assessment (short exercises given during exercise classes and Q&As given during lectures, Grading: Best 3/6)
+20% homework (Grading: Best 2/3)
+30% project (writeup and presentation (for bonus))
+35% written exam
+
+Preliminary dates for continuous assessments (CA): 
+21/10/2024 (Monday): CA on Approximation and complexity theory
+31/10/2024 (Thursday): CA on Optimization
+11/11/2024 (Monday): CA on Loss landscape in Neural networks
+21/11/2024 (Thursday): CA on Neural tangent kernel
+02/12/2024 (Monday): CA on Generalization bounds I + II
+12/12/2024 (Thursday): CA on Reguarlization and Architectures
+
+**A 50% score on HW sets is required to participate in the final exam. A score of 3 out of 6 is required at the exam to pass the class.**
+
+## Exam
+Date for written exam: TBD.
+Information about the exam: you can bring two two-sided A4 sheets or four one-sided A4 sheets (hand-written or latex).
+
+## Homework
+You have to hand in two homework sheets out of the following three options:
+
+1) [Basics, Approximation and Complexity theory](homework_2024/DL2024_HW1.pdf) (Period: 19/09/2024 18:00 - 24/10/2024 23:55)
+2) Optimization, Loss landscape and Neural tangent kernel  (Period: 17/10/2024 18:00 - 21/11/2024 23:55)
+3) Generalization, Regularization and Adversarial examples  (Period: 14/11/2024 18:00 - 19/12/2024 23:55)
+
+Each homework is required to be written in Latex using the provided template (hw_template.zip). Each homework has to be submitted in "Homework" section via ADAM.
+The submitted file name should be in form "[full name]_hw[n]" where n is the index of the exercise.  
+Each homework is equally weighted. 
+Any homework that is sent late will not be graded and will be worth no credit. 
+
+## Projects
+Projects have to be completed within a group of 2-3 students. Two types of projects you can pursue are:
+1) A novel and sound solution to a problem discussed in the class
+2) Thorough theoretical analysis of an existing deep learning approach discussed in the class
+Students cannot use their own published work as the course project.
+Deadline: 05/02/2025 12:00 Bern time
+Submission: on ADAM
+
+
+
