@@ -37,7 +37,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 
 | Exercise | Date       | Weekday | Topic                                            | File |
 |----------|------------|---------|--------------------------------------------------|------|
-| 0        | 19/09/2024 | Thursday| Prequisites (Recap)                              |[Ex.0](exercises2024/Exercise00_2024_deep_learning.pdf)|
+| 0        | 19/09/2024 | Thursday| Prequisites (Recap)                              |[Ex.0](exercises_2024/Exercise00_2024_deep_learning.pdf)|
 | 1        | 03/10/2024 | Thursday| Basics + Linear & non-linear networks            |      |           
 | 2        | 07/10/2024 | Monday  | Approximation Theory                             |      |           
 | 3        | 14/10/2024 | Monday  | Complexity Theory                                |      |           
