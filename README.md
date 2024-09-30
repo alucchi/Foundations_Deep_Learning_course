@@ -22,7 +22,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | Lecture | Date       | Weekday | Topic                                            | Slides |
 |---------|------------|---------|--------------------------------------------------|--------|
 | 1       | 23/09/2024 | Monday  | Introduction + Linear & non-linear networks      | [Lec.1](slides_2024/01_introduction.pdf)|
-| 2       | 26/09/2024 | Thursday| Approximation Theory                             |        |           
+| 2       | 26/09/2024 | Thursday| Approximation Theory                             | [Lec.2](slides_2024/02_approximation.pdf)|               
 | 3       | 30/09/2024 | Monday  | Complexity Theory                                |        |           
 | 4       | 10/10/2024 | Thursday| Optimization                                     |        |           
 | 5       | 17/10/2024 | Thursday| Optimization Landscape of Neural Networks        |        |           
