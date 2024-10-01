@@ -86,7 +86,7 @@ You have to hand in two homework sheets out of the following three options:
 2) Optimization, Loss landscape and Neural tangent kernel  (Period: 17/10/2024 18:00 - 21/11/2024 23:55)
 3) Generalization, Regularization and Adversarial examples  (Period: 14/11/2024 18:00 - 19/12/2024 23:55)
 
-Each homework is required to be written in Latex using the provided template (hw_template.zip). Each homework has to be submitted in "Homework" section via ADAM.
+Each homework is required to be written in Latex using the provided template [hw_template.zip](homework_2024/hw_template.zip). Each homework has to be submitted in "Homework" section via ADAM.
 The submitted file name should be in form "[full name]_hw[n]" where n is the index of the exercise.  
 Each homework is equally weighted. 
 Any homework that is sent late will not be graded and will be worth no credit. 
