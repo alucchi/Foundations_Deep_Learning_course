@@ -19,41 +19,41 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 
 ## Lecture schedule
 
-| Lecture | Date       | Weekday | Topic                                            | Slides |
-|---------|------------|---------|--------------------------------------------------|--------|
-| 1       | 23/09/2024 | Monday  | Introduction + Linear & non-linear networks      | [Lec.1](slides_2024/01_introduction.pdf)|
+| Lecture | Date       | Weekday | Topic                                            | Slides                                   |
+|---------|------------|---------|--------------------------------------------------|------------------------------------------|
+| 1       | 23/09/2024 | Monday  | Introduction + Linear & non-linear networks      | [Lec.1](slides_2024/01_introduction.pdf) |
 | 2       | 26/09/2024 | Thursday| Approximation Theory                             | [Lec.2](slides_2024/02_approximation.pdf)|               
-| 3       | 30/09/2024 | Monday  | Complexity Theory                                |        |           
-| 4       | 10/10/2024 | Thursday| Optimization                                     |        |           
-| 5       | 17/10/2024 | Thursday| Optimization Landscape of Neural Networks        |        |           
+| 3       | 30/09/2024 | Monday  | Approximation Theory contd.                      | [Lec.2](slides_2024/02_approximation.pdf)|           
+| 4       | 10/10/2024 | Thursday| Complexity Theory                                |        |           
+| 5       | 17/10/2024 | Thursday| Optimization                                     |        |           
 | 6       | 24/10/2024 | Thursday| To be determined                                 |        |          
-| 7       | 31/10/2024 | Thursday| Neural Tangent Kernel                            |        |           
-| 8       | 07/11/2024 | Thursday| Generalization bounds I                          |        |           
-| 9       | 14/11/2024 | Thursday| Generalization bounds II                         |        |           
-| 10      | 21/11/2024 | Thursday| Architecture (no lecture notes, only slides)     |        |           
-| 11      | 28/11/2024 | Thursday| Regularization                                   |        |           
-| 12      | 05/12/2024 | Thursday| Adversarial Examples                             |        |           
-| 13      | 12/12/2024 | Thursday| To be determined                                 |        |           
+| 7       | 31/10/2024 | Thursday| Optimization Landscape of Neural Networks        |        |           
+| 8       | 07/11/2024 | Thursday| Neural Tangent Kernel                            |        |           
+| 9       | 14/11/2024 | Thursday| Generalization bounds I                          |        |           
+| 10      | 21/11/2024 | Thursday| Generalization bounds II                         |        |           
+| 11      | 28/11/2024 | Thursday| Architecture (no lecture notes, only slides)     |        |           
+| 12      | 05/12/2024 | Thursday| Regularization                                   |        |           
+| 13      | 12/12/2024 | Thursday| Adversarial Examples                             |        |           
 | 14      | 19/12/2024 | Thursday| To be determined                                 |        |           
 
 ## Exercise schedule
 
-| Exercise | Date       | Weekday | Topic                                            | File |
-|----------|------------|---------|--------------------------------------------------|------|
+| Exercise | Date       | Weekday | Topic                                            | File                                                   |
+|----------|------------|---------|--------------------------------------------------|--------------------------------------------------------|
 | 0        | 19/09/2024 | Thursday| Prequisites (Recap)                              |[Ex.0](exercises_2024/Exercise00_2024_deep_learning.pdf)|
-| 1        | 03/10/2024 | Thursday| Basics + Linear & non-linear networks            |[Ex.1](exercises_2024/Exercise01_2024_deep_learning.pdf)      |           
-| 2        | 07/10/2024 | Monday  | Approximation Theory                             |      |           
-| 3        | 14/10/2024 | Monday  | Complexity Theory                                |      |           
-| 4        | 21/10/2024 | Monday  | Optimization                                     |      |           
-| 5        | 28/10/2024 | Monday  | Optimization Landscape of Neural Networks        |      |          
-| 6        | 04/11/2024 | Monday  | Neural Tangent Kernel                            |      |           
-| 7        | 11/11/2024 | Monday  | To be determined                                 |      |           
-| 8        | 18/11/2024 | Monday  | Generalization bounds I                          |      |           
-| 9        | 25/11/2024 | Monday  | Generalization bounds II                         |      |           
-| 10       | 02/12/2024 | Monday  | Architecture                                     |      |           
-| 11       | 09/12/2024 | Monday  | Regularization                                   |      |           
-| 12       | 16/12/2024 | Monday  | Adversarial Examples                             |      |           
-| 13       | 23/12/2024 | Monday  | To be determined                                 |      |       
+| 1        | 03/10/2024 | Thursday| Basics + Linear & non-linear networks            |[Ex.1](exercises_2024/Exercise01_2024_deep_learning.pdf)|           
+| 2        | 07/10/2024 | Monday  | Approximation Theory                             |[Ex.2](exercises_2024/Exercise02_2024_deep_learning.pdf)|           
+| 3        | 14/10/2024 | Monday  | Tutorial session                                 |      |           
+| 4        | 21/10/2024 | Monday  | Complexity Theory                                |      |           
+| 5        | 28/10/2024 | Monday  | Optimization                                     |      |          
+| 6        | 04/11/2024 | Monday  | To be determined                                 |      |           
+| 7        | 11/11/2024 | Monday  | Optimization Landscape of Neural Networks        |      |           
+| 8        | 18/11/2024 | Monday  | Neural Tangent Kernel                            |      |           
+| 9        | 25/11/2024 | Monday  | Generalization bounds I                          |      |           
+| 10       | 02/12/2024 | Monday  | Generalization bounds II                         |      |           
+| 11       | 09/12/2024 | Monday  | Architecture                                     |      |           
+| 12       | 16/12/2024 | Monday  | Regularization                                   |      |           
+| 13       | 23/12/2024 | Monday  | Adversarial Examples                             |      |       
 
 
 ## Continuous assessment
