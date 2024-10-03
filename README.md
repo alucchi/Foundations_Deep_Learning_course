@@ -29,7 +29,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 5       | 24/10/2024 | Thursday| Optimization Landscape of Neural Networks        |        |          
 | 6       | 31/10/2024 | Thursday| Neural Tangent Kernel                            |        |           
 | 7       | 07/11/2024 | Thursday| Generalization bounds I                          |        |           
-| 8       | 14/11/2024 | Thursday| Generalization bounds II                         |        |           
+| 8       | 11/11/2024 | Monday  | Generalization bounds II                         |        |           
 | 9       | 21/11/2024 | Thursday| Architecture (no lecture notes, only slides)     |        |           
 | 10      | 28/11/2024 | Thursday| Regularization                                   |        |           
 | 11      | 05/12/2024 | Thursday| Adversarial Examples                             |        |           
@@ -47,7 +47,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 4        | 21/10/2024 | Monday  | Complexity Theory                                |      |           
 | 5        | 28/10/2024 | Monday  | Optimization                                     |      |          
 | 6        | 04/11/2024 | Monday  | Optimization Landscape of Neural Networks        |      |           
-| 7        | 11/11/2024 | Monday  | Neural Tangent Kernel                            |      |           
+| 7        | 14/11/2024 | Thursday| Neural Tangent Kernel                            |      |           
 | 8        | 18/11/2024 | Monday  | Generalization bounds I                          |      |           
 | 9        | 25/11/2024 | Monday  | Generalization bounds II                         |      |           
 | 10       | 02/12/2024 | Monday  | Architecture                                     |      |           
