@@ -67,7 +67,7 @@ Note the following split:
 Preliminary dates for continuous assessments (CA): 
 - 21/10/2024 (Monday): CA on Approximation and complexity theory
 - 31/10/2024 (Thursday): CA on Optimization
-- 11/11/2024 (Monday): CA on Loss landscape in Neural networks
+- 14/11/2024 (Thursday): CA on Loss landscape in Neural networks
 - 21/11/2024 (Thursday): CA on Neural tangent kernel
 - 02/12/2024 (Monday): CA on Generalization bounds I + II
 - 12/12/2024 (Thursday): CA on Reguarlization and Architectures
