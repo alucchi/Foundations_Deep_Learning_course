@@ -24,7 +24,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 0       | 23/09/2024 | Monday  | Introduction + Linear & non-linear networks      | [Lec.1](slides_2024/01_introduction.pdf) |
 | 1       | 26/09/2024 | Thursday| Linear & non-linear networks                     | [Lec.1](slides_2024/01_introduction.pdf) |               
 | 2       | 30/09/2024 | Monday  | Approximation Theory                             | [Lec.2](slides_2024/02_approximation.pdf)|           
-| 3       | 10/10/2024 | Thursday| Complexity Theory                                |        |           
+| 3       | 10/10/2024 | Thursday| Complexity Theory                                | [Lec.3](slides_2024/03_complexity.pdf)   |           
 | 4       | 17/10/2024 | Thursday| Optimization                                     |        |           
 | 5       | 24/10/2024 | Thursday| Optimization Landscape of Neural Networks        |        |          
 | 6       | 31/10/2024 | Thursday| Neural Tangent Kernel                            |        |           
@@ -43,7 +43,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 0        | 19/09/2024 | Thursday| Prequisites (Recap)                              |[Ex.0](exercises_2024/Exercise00_2024_deep_learning.pdf)|
 | 1        | 03/10/2024 | Thursday| Basics + Linear & non-linear networks            |[Ex.1](exercises_2024/Exercise01_2024_deep_learning.pdf)|           
 | 2        | 07/10/2024 | Monday  | Approximation Theory                             |[Ex.2](exercises_2024/Exercise02_2024_deep_learning.pdf)|           
-| 3        | 14/10/2024 | Monday  | Tutorial session                                 |      |           
+| 3        | 14/10/2024 | Monday  | Tutorial session                                 |[Ex.3](exercises_2024/Exercise03_2024_deep_learning.pdf)|           
 | 4        | 21/10/2024 | Monday  | Complexity Theory                                |      |           
 | 5        | 28/10/2024 | Monday  | Optimization                                     |      |          
 | 6        | 04/11/2024 | Monday  | Optimization Landscape of Neural Networks        |      |           
