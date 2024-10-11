@@ -43,8 +43,8 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 0        | 19/09/2024 | Thursday| Prequisites (Recap)                              |[Ex.0](exercises_2024/Exercise00_2024_deep_learning.pdf)|
 | 1        | 03/10/2024 | Thursday| Basics + Linear & non-linear networks            |[Ex.1](exercises_2024/Exercise01_2024_deep_learning.pdf)|           
 | 2        | 07/10/2024 | Monday  | Approximation Theory                             |[Ex.2](exercises_2024/Exercise02_2024_deep_learning.pdf)|           
-| 3        | 14/10/2024 | Monday  | Tutorial session                                 |[Ex.3](exercises_2024/Exercise03_2024_deep_learning.pdf)|           
-| 4        | 21/10/2024 | Monday  | Complexity Theory                                |      |           
+| 3        | 14/10/2024 | Monday  | Tutorial session                                 |[Tu.1](exercises_2024/Tutorial01_2024_deep_learning.ipynb)|           
+| 4        | 21/10/2024 | Monday  | Complexity Theory                                |[Ex.3](exercises_2024/Exercise03_2024_deep_learning.pdf)|           
 | 5        | 28/10/2024 | Monday  | Optimization                                     |      |          
 | 6        | 04/11/2024 | Monday  | Optimization Landscape of Neural Networks        |      |           
 | 7        | 14/11/2024 | Thursday| Neural Tangent Kernel                            |      |           
