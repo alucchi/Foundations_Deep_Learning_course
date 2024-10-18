@@ -83,7 +83,7 @@ Information about the exam: you can bring two two-sided A4 sheets or four one-si
 You have to hand in two homework sheets out of the following three options:
 
 1) [Basics, Approximation and Complexity theory](homework_2024/DL2024_HW1.pdf) (Period: 19/09/2024 18:00 - 24/10/2024 23:55)
-2) Optimization, Loss landscape and Neural tangent kernel  (Period: 17/10/2024 18:00 - 21/11/2024 23:55)
+2) [Optimization, Loss landscape and Neural tangent kernel](homework_2024/DL2024_HW2.pdf)  (Period: 17/10/2024 18:00 - 21/11/2024 23:55)
 3) Generalization, Regularization and Adversarial examples  (Period: 14/11/2024 18:00 - 19/12/2024 23:55)
 
 Each homework is required to be written in Latex using the provided template [hw_template.zip](homework_2024/hw_template.zip). Each homework has to be submitted in "Homework" section via ADAM.
