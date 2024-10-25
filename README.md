@@ -26,7 +26,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 2       | 30/09/2024 | Monday  | Approximation Theory                             | [Lec.2](slides_2024/02_approximation.pdf)|           
 | 3       | 10/10/2024 | Thursday| Complexity Theory                                | [Lec.3](slides_2024/03_complexity.pdf)   |           
 | 4       | 17/10/2024 | Thursday| Optimization                                     | [Lec.4](slides_2024/04_optimization.pdf) |           
-| 5       | 24/10/2024 | Thursday| Optimization Landscape of Neural Networks        |        |          
+| 5       | 24/10/2024 | Thursday| Optimization Landscape of Neural Networks        | [Lec.5](slides_2024/05_landscape.pdf)    |          
 | 6       | 31/10/2024 | Thursday| Neural Tangent Kernel                            |        |           
 | 7       | 07/11/2024 | Thursday| Generalization bounds I                          |        |           
 | 8       | 11/11/2024 | Monday  | Generalization bounds II                         |        |           
@@ -46,7 +46,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 3        | 14/10/2024 | Monday  | Tutorial session                                 |[Tu.1](exercises_2024/Tutorial01_2024_deep_learning.ipynb)|           
 | 4        | 21/10/2024 | Monday  | Complexity Theory                                |[Ex.3](exercises_2024/Exercise03_2024_deep_learning.pdf)|           
 | 5        | 28/10/2024 | Monday  | Optimization                                     |[Ex.4](exercises_2024/Exercise04_2024_deep_learning.pdf)|          
-| 6        | 04/11/2024 | Monday  | Optimization Landscape of Neural Networks        |      |           
+| 6        | 04/11/2024 | Monday  | Optimization Landscape of Neural Networks        |[Ex.5](exercises_2024/Exercise05_2024_deep_learning.pdf)|           
 | 7        | 14/11/2024 | Thursday| Neural Tangent Kernel                            |      |           
 | 8        | 18/11/2024 | Monday  | Generalization bounds I                          |      |           
 | 9        | 25/11/2024 | Monday  | Generalization bounds II                         |      |           
