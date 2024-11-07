@@ -68,9 +68,9 @@ Preliminary dates for continuous assessments (CA):
 - 21/10/2024 (Monday): CA on Approximation and complexity theory
 - 24/10/2024 (Thursday): CA on Optimization
 - 14/11/2024 (Thursday): CA on Loss landscape in Neural networks
-- 21/11/2024 (Thursday): CA on Neural tangent kernel
+- 18/11/2024 (Monday): CA on Neural tangent kernel
 - 02/12/2024 (Monday): CA on Generalization bounds I + II
-- 12/12/2024 (Thursday): CA on Reguarlization and Architectures
+- 16/12/2024 (Monday): CA on Reguarlization and Architectures
 
 **A 50% score on HW sets is required to participate in the final exam. A score of 3 out of 6 is required at the exam to pass the class.**
 
@@ -84,7 +84,7 @@ You have to hand in two homework sheets out of the following three options:
 
 1) [Basics, Approximation and Complexity theory](homework_2024/DL2024_HW1.pdf) (Period: 19/09/2024 18:00 - 24/10/2024 23:55)
 2) [Optimization, Loss landscape and Neural tangent kernel](homework_2024/DL2024_HW2.pdf)  (Period: 17/10/2024 18:00 - 21/11/2024 23:55)
-3) Generalization, Regularization and Adversarial examples  (Period: 14/11/2024 18:00 - 19/12/2024 23:55)
+3) Generalization, Regularization and Adversarial examples  (Period: 14/11/2024 18:00 - 26/12/2024 23:55)
 
 Each homework is required to be written in Latex using the provided template [hw_template.zip](homework_2024/hw_template.zip). Each homework has to be submitted in "Homework" section via ADAM.
 The submitted file name should be in form "[full name]_hw[n]" where n is the index of the exercise.  
