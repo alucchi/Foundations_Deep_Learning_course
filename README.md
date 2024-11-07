@@ -48,8 +48,8 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 5        | 28/10/2024 | Monday  | Optimization                                     |[Ex.4](exercises_2024/Exercise04_2024_deep_learning.pdf)|          
 | 6        | 04/11/2024 | Monday  | Homework & CA feedback + math recap  |     |           
 | 7        | 14/11/2024 | Thursday| Optimization Landscape of Neural Networks        |[Ex.5](exercises_2024/Exercise05_2024_deep_learning.pdf)|         
-| 8        | 18/11/2024 | Monday  | Architecture                       |      |           
-| 9        | 25/11/2024 | Monday  |  Neural Tangent Kernel    |      |           
+| 8        | 18/11/2024 | Monday  | Neural Tangent Kernel                       |      |           
+| 9        | 25/11/2024 | Monday  | Architecture     |      |           
 | 10       | 02/12/2024 | Monday  |    Generalization bounds I                         |      |           
 | 11       | 09/12/2024 | Monday  |   Generalization bounds II                                    |      |           
 | 12       | 16/12/2024 | Monday  |                   Regularization                             |      |           
