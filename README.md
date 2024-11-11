@@ -29,7 +29,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 5       | 24/10/2024 | Thursday| Optimization Landscape of Neural Networks        | [Lec.5](slides_2024/05_landscape.pdf)    |          
 | 6       | 31/10/2024 | Thursday| Architecture, Part I (no lecture notes, only slides)   | [Lec.6+7](slides_2024/06+07_architecture.pdf) |           
 | 7       | 07/11/2024 | Thursday| Architecture, Part II (no lecture notes, only slides)  | [Lec.6+7](slides_2024/06+07_architecture.pdf) |           
-| 8       | 11/11/2024 | Monday  | Neural Tangent Kernel                     |        |           
+| 8       | 11/11/2024 | Monday  | Neural Tangent Kernel                            | [Lec.8](slides_2024/08_NTK.pdf)|           
 | 9       | 21/11/2024 | Thursday|     Generalization bounds I        |        |           
 | 10      | 28/11/2024 | Thursday| Generalization bounds II                             |        |           
 | 11      | 05/12/2024 | Thursday| Regularization                              |        |           
@@ -48,29 +48,29 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 5        | 28/10/2024 | Monday  | Optimization                                     |[Ex.4](exercises_2024/Exercise04_2024_deep_learning.pdf)|          
 | 6        | 04/11/2024 | Monday  | Homework & CA feedback + math recap              |     |           
 | 7        | 14/11/2024 | Thursday| Optimization Landscape of Neural Networks (+CA)  |[Ex.5](exercises_2024/Exercise05_2024_deep_learning.pdf)|         
-| 8        | 18/11/2024 | Monday  | Neural Tangent Kernel                     (+CA)  |      |           
+| 8        | 18/11/2024 | Monday  | Neural Tangent Kernel                     (+QA)  |[Ex.6](exercises_2024/Exercise06_2024_deep_learning.pdf)|           
 | 9        | 25/11/2024 | Monday  | Architecture                     (+HW feedback)  |[Ex.9](exercises_2024/Exercise09_2024_deep_learning.pdf)|           
 | 10       | 02/12/2024 | Monday  | Generalization bounds I                   (+CA)  |      |           
 | 11       | 09/12/2024 | Monday  | Generalization bounds II                         |      |           
-| 12       | 16/12/2024 | Monday  | Regularization                            (+CA)  |      |           
+| 12       | 16/12/2024 | Monday  | Regularization                            (+QA)  |      |           
 | 13       | 23/12/2024 | Monday  | Adversarial Examples                             |      |       
 
 
 ## Continuous assessment
 
 Note the following split:
-- 15% continuous assessment (short exercises and Q&As given during exercise classes, Grading: Best 3/6)
+- 15% continuous assessment (short exercises and Q&As given during exercise classes, Grading: Best 3/6 normalized)
 - 20% homework (Grading: Best 2/3)
 - 30% project (writeup and presentation (for bonus))
 - 35% written exam
 
 Preliminary dates for continuous assessments (CA): 
 - 21/10/2024 (Monday): CA on Approximation and complexity theory
-- 24/10/2024 (Thursday): CA on Optimization
+- 24/10/2024 (Thursday): QA on Optimization
 - 14/11/2024 (Thursday): CA on Loss landscape in Neural networks
-- 18/11/2024 (Monday): CA on Neural tangent kernel
+- 18/11/2024 (Monday): QA on Neural tangent kernel
 - 02/12/2024 (Monday): CA on Generalization bounds I + II
-- 16/12/2024 (Monday): CA on Reguarlization and Architectures
+- 16/12/2024 (Monday): QA on Reguarlization and Architectures
 
 **A 50% score on HW sets is required to participate in the final exam. A score of 3 out of 6 is required at the exam to pass the class.**
 
