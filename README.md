@@ -34,7 +34,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 10      | 28/11/2024 | Thursday| Generalization bounds II                             |        |           
 | 11      | 05/12/2024 | Thursday| Regularization                              |        |           
 | 12      | 12/12/2024 | Thursday| Adversarial Examples                           |        |           
-| 13      | 19/12/2024 | Thursday| **To be determine**                              |        |           
+       
 
 ## Exercise schedule
 
@@ -52,8 +52,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 9        | 25/11/2024 | Monday  | Architecture                     (+HW feedback)  |[Ex.9](exercises_2024/Exercise09_2024_deep_learning.pdf)|           
 | 10       | 02/12/2024 | Monday  | Generalization bounds I                   (+CA)  |      |           
 | 11       | 09/12/2024 | Monday  | Generalization bounds II                         |      |           
-| 12       | 16/12/2024 | Monday  | Regularization                            (+QA)  |      |           
-| 13       | 23/12/2024 | Monday  | Adversarial Examples                             |      |       
+| 12       | 19/12/2024 | Thursday| Regularization + Adversarial Examples     (+QA)  |      |           
 
 
 ## Continuous assessment
@@ -70,7 +69,7 @@ Preliminary dates for continuous assessments (CA):
 - 14/11/2024 (Thursday): CA on Loss landscape in Neural networks
 - 18/11/2024 (Monday): QA on Neural tangent kernel
 - 02/12/2024 (Monday): CA on Generalization bounds I + II
-- 16/12/2024 (Monday): QA on Reguarlization and Architectures
+- 19/12/2024 (Thursday): QA on Reguarlization and Architectures
 
 **A 50% score on HW sets is required to participate in the final exam. A score of 3 out of 6 is required at the exam to pass the class.**
 
