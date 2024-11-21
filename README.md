@@ -30,7 +30,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 6       | 31/10/2024 | Thursday| Architecture, Part I (no lecture notes, only slides)   | [Lec.6+7](slides_2024/06+07_architecture.pdf) |           
 | 7       | 07/11/2024 | Thursday| Architecture, Part II (no lecture notes, only slides)  | [Lec.6+7](slides_2024/06+07_architecture.pdf) |           
 | 8       | 11/11/2024 | Monday  | Neural Tangent Kernel                            | [Lec.8](slides_2024/08_NTK.pdf)|           
-| 9       | 21/11/2024 | Thursday|     Generalization bounds I        |        |           
+| 9       | 21/11/2024 | Thursday|     Generalization bounds I                      | [Lec.9](slides_2024/09_generalization.pdf)|           
 | 10      | 28/11/2024 | Thursday| Generalization bounds II                             |        |           
 | 11      | 05/12/2024 | Thursday| Regularization                              |        |           
 | 12      | 12/12/2024 | Thursday| Adversarial Examples                           |        |           
@@ -50,7 +50,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 7        | 14/11/2024 | Thursday| Optimization Landscape of Neural Networks (+CA)  |[Ex.5](exercises_2024/Exercise05_2024_deep_learning.pdf)|         
 | 8        | 18/11/2024 | Monday  | Neural Tangent Kernel                     (+QA)  |[Ex.6](exercises_2024/Exercise06_2024_deep_learning.pdf)|           
 | 9        | 25/11/2024 | Monday  | Architecture                     (+HW feedback)  |[Ex.9](exercises_2024/Exercise09_2024_deep_learning.pdf)|           
-| 10       | 02/12/2024 | Monday  | Generalization bounds I                   (+CA)  |      |           
+| 10       | 02/12/2024 | Monday  | Generalization bounds I                   (+CA)  |[Ex.7](exercises_2024/Exercise07_2024_deep_learning.pdf)|           
 | 11       | 09/12/2024 | Monday  | Generalization bounds II                         |      |           
 | 12       | 19/12/2024 | Thursday| Regularization + Adversarial Examples     (+QA)  |      |           
 
