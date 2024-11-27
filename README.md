@@ -74,7 +74,7 @@ Preliminary dates for continuous assessments (CA):
 **A 50% score on HW sets is required to participate in the final exam. A score of 3 out of 6 is required at the exam to pass the class.**
 
 ## Exam
-Date for written exam: TBD.
+Date for written exam: Thursday, February 6, 2025, 10-12 a.m., Spiegelgasse 5, room 05.002.
 
 Information about the exam: you can bring two two-sided A4 sheets or four one-sided A4 sheets (hand-written or latex).
 
