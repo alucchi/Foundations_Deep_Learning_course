@@ -32,8 +32,8 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 8       | 11/11/2024 | Monday  | Neural Tangent Kernel                            | [Lec.8](slides_2024/08_NTK.pdf)|           
 | 9       | 21/11/2024 | Thursday| Generalization bounds I                          | [Lec.9](slides_2024/09_generalization.pdf)|           
 | 10      | 28/11/2024 | Thursday| Generalization bounds II                         | [Lec.10](slides_2024/10_generalization.pdf)|           
-| 11      | 05/12/2024 | Thursday| Adversarial Examples                             |        |           
-| 12      | Online Recording |   | Regularization                                   |        |           
+| 11      | 05/12/2024 | Thursday| Adversarial Examples                             | [Lec.11](slides_2024/11_adversarial_example.pdf)|           
+| 12      | Online Recording |   | Regularization                                   | [Lec.12](slides_2024/12_regularization.pdf)|           
        
 
 ## Exercise schedule
@@ -52,7 +52,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 | 9        | 25/11/2024 | Monday  | Architecture                     (+HW feedback)  |[Ex.9](exercises_2024/Exercise09_2024_deep_learning.pdf)|           
 | 10       | 02/12/2024 | Monday  | Generalization bounds I                   (+CA)  |[Ex.7](exercises_2024/Exercise07_2024_deep_learning.pdf)|           
 | 11       | 09/12/2024 | Monday  | Generalization bounds II                         |[Ex.8](exercises_2024/Exercise08_2024_deep_learning.pdf)|           
-| 12       | 19/12/2024 | Thursday| Regularization + Adversarial Examples     (+QA)  |      |           
+| 12       | 19/12/2024 | Thursday| Regularization + Adversarial Examples     (+QA)  |[Ex.10](exercises_2024/Exercise10_2024_deep_learning.pdf) , [Ex.11](exercises_2024/Exercise11_2024_deep_learning.pdf)|           
 
 
 ## Continuous assessment
