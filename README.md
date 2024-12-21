@@ -59,7 +59,7 @@ There is no exercise or lecture on Monday 16/09/2024. Please use this time to re
 
 Note the following split:
 - 15% continuous assessment (short exercises and Q&As given during exercise classes, Grading: Best 3/6 normalized)
-- 20% homework (Grading: Best 2/3)
+- 20% homework (Grading: Best 2/3 normalized)
 - 30% project (writeup and presentation (for bonus))
 - 35% written exam
 
@@ -71,7 +71,7 @@ Preliminary dates for continuous assessments (CA):
 - 02/12/2024 (Monday): CA on Generalization bounds I + II
 - 19/12/2024 (Thursday): QA on Reguarlization and Architectures
 
-**A 50% score on HW sets is required to participate in the final exam. A score of 3 out of 6 is required at the exam to pass the class.**
+**A 50% score on HW sets is required to participate in the final exam. A 50% score on the exam is required to pass the class.**
 
 ## Exam
 Date for written exam: Thursday, February 6, 2025, 10-12 a.m., Spiegelgasse 5, room 05.002.
